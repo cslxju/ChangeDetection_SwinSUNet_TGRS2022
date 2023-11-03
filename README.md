@@ -1,5 +1,5 @@
 # SwinSUNet
-
+Using the code should cite the following paper:
 C. Zhang, Liejun Wang*, Shuli Cheng, Yongming Li. SwinSUNet: Pure Transformer Network for Remote Sensing Image Change Detectionm,IEEE Transactions on Geoscience and Remote Sensing,2022, 60:1-13
 
 ########################################
@@ -80,5 +80,5 @@ $ls A > ../img.txt
 
 ########################################
 ########################################
-
+Using the code should cite the following paper:
 C. Zhang, Liejun Wang*, Shuli Cheng, Yongming Li. SwinSUNet: Pure Transformer Network for Remote Sensing Image Change Detectionm,IEEE Transactions on Geoscience and Remote Sensing,2022, 60:1-13
