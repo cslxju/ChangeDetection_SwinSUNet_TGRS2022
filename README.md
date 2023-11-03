@@ -1,4 +1,7 @@
 # SwinSUNet
+ChangeDetection
+
+
 Using the code should cite the following paper:
 
 [1] C. Zhang, L. Wang, S. Cheng and Y. Li, "SwinSUNet: Pure Transformer Network for Remote Sensing Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-13.
