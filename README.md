@@ -4,7 +4,7 @@ Change Detection
 
 Using the code should cite the following paper:
 
-[1] C. Zhang, L. Wang, S. Cheng and Y. Li, "SwinSUNet: Pure Transformer Network for Remote Sensing Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-13.
+[1] C. Zhang, L. Wang, S. Cheng and Y. Li, "SwinSUNet: Pure Transformer Network for Remote Sensing Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-13.(https://github.com/cslxju/ChangeDetection_SwinSUNet_TGRS2022)
 
 [2] X. Zhang,Shuli Cheng*, L. Wang and H. Li, Asymmetric Cross-attention Hierarchical Network Based on CNN and Transformer for Bitemporal Remote Sensing Images Change Detection,IEEE Transactions on Geoscience and Remote Sensing，2023,61：1-16 (https://github.com/cslxju/ChangeDetection_ACAHNet_TGRS2023)
 
